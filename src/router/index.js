@@ -4,7 +4,7 @@ import HomePage from '../views/HomePage.vue'
 
 const routes = [
   { path: '/', component: HomePage },
-  { path: '/movie/:id', component: MovieDetails }
+  { path: '/show/:id', component: MovieDetails }
 ]
 
 const router = createRouter({

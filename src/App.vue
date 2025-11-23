@@ -9,6 +9,5 @@ export default {
 </script>
 
 <style>
-/* Estilos opcionais */
 body { font-family: Arial, sans-serif; }
 </style>
